@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>test.jun</groupId>
-    <artifactId>sprintboot-sample</artifactId>
+    <artifactId>springboot-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
